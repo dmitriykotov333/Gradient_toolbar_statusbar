@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GradientApp</string>
+    <string name="nav_share">Share</string>
+    <string name="nav_notification">Notification</string>
+</resources>
